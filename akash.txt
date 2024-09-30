@@ -9,3 +9,5 @@ The code will run the gesture recognition algorithm on the image and will print 
 If you want to run the code on a different image, you can change the image name in the main.py file.
 
 This code is written by Akash Vishwakarma.
+
+You can modify the code to suit your needs.
