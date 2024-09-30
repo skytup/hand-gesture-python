@@ -1,0 +1,9 @@
+To use this code, you need to install the following packages:
+opencv-python
+
+To run the code, you need to run the following command:
+python main.py
+
+The code will run the gesture recognition algorithm on the image and will print the result.
+
+If you want to run the code on a different image, you can change the image name in the main.py file.
